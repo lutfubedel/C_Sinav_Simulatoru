@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1671108057 source:c:\users\ltfmu\desktop\avp_proje\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1671279110 source:c:\users\ltfmu\desktop\avp_projesi\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
